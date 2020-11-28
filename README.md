@@ -9,4 +9,4 @@ Git Clone to setup
 
 ```npm start``` to run in development
 
-``npm run build``` to create optimized build
+```npm run build``` to create optimized build
