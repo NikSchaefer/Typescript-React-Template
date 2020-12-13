@@ -1,5 +1,6 @@
 # Typescript-React-Template
-Baseline Typescript Configuration for React
+Baseline Empty Typescript Configuration for React
+
 
 Git Clone to setup
 
